@@ -1,0 +1,6 @@
+Model_Name,Model_File,Accuracy,F1_Score,Precision,Recall
+XGBoost,models/xgboost.joblib,0.9344444444444444,0.8456305599162742,0.8869374313940724,0.808
+Random Forest,models/random_forest.joblib,0.9292222222222222,0.8293597642646665,0.8932487016733988,0.774
+Gradient Boosting,models/gradient_boosting.joblib,0.922,0.8120985010706638,0.8738479262672811,0.7585
+Logistic Regression,models/logistic_regression.joblib,0.8966666666666666,0.7629969418960245,0.7780665280665281,0.7485
+K-Nearest Neighbors,models/k-nearest_neighbors.joblib,0.8897777777777778,0.7340482573726541,0.7913294797687861,0.6845
